@@ -10,8 +10,4 @@ func Add(a, b int) int {
 
 func main() {
 	fmt.Println("Я домашка")
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> f42471c340f7105f6792ee6b8173652618763202
